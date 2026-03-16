@@ -3,4 +3,4 @@ Allow: /
 Disallow: /register
 Disallow: /login
 
-Sitemap: https://luckybear.icu/sitemap.xml
+Sitemap: https://www.luckybearcasino.blog/sitemap.xml
