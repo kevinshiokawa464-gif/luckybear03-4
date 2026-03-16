@@ -1,10 +1,6 @@
 {
-  "rewrites": [
-    {
-      "source": "/yandex_8ffa7e756b722df3.html",
-      "destination": "/yandex_8ffa7e756b722df3.html"
-    }
-  ],
+  "cleanUrls": true,
+  "trailingSlash": false,
   "headers": [
     {
       "source": "/yandex_8ffa7e756b722df3.html",
