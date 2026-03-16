@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /register
+Disallow: /login
+
+Sitemap: https://luckybear-game.store/sitemap.xml
