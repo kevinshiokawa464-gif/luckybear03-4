@@ -1,0 +1,23 @@
+{
+  "rewrites": [
+    {
+      "source": "/yandex_8ffa7e756b722df3.html",
+      "destination": "/yandex_8ffa7e756b722df3.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/yandex_8ffa7e756b722df3.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=UTF-8"
+        }
+      ]
+    }
+  ]
+}
