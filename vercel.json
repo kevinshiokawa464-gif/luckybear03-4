@@ -3,16 +3,31 @@
   "trailingSlash": false,
   "headers": [
     {
+      "source": "/yandex_8ffa7e756b722df3.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
+        { "key": "Content-Type", "value": "text/html; charset=UTF-8" }
+      ]
+    },
+    {
+      "source": "/yandex_b9194885b457da71.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
+        { "key": "Content-Type", "value": "text/html; charset=UTF-8" }
+      ]
+    },
+    {
+      "source": "/yandex_1987ad47a382b148.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
+        { "key": "Content-Type", "value": "text/html; charset=UTF-8" }
+      ]
+    },
+    {
       "source": "/yandex_8100eac5adca4878.html",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
-        },
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=UTF-8"
-        }
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
+        { "key": "Content-Type", "value": "text/html; charset=UTF-8" }
       ]
     }
   ]
